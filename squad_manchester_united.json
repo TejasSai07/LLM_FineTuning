@@ -1,0 +1,100 @@
+{
+    "version": "1.0",
+    "data": [
+        {
+            "title": "Manchester United",
+            "paragraphs": [
+                {
+                    "context": "Manchester United Football Club, commonly referred to as Man United or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. The club was founded as Newton Heath LYR Football Club in 1878 and changed its name to Manchester United in 1902. Manchester United has won a record 20 top-flight league titles, 12 FA Cups, six League Cups, and a record 21 FA Community Shields. In international football, they have won the UEFA Champions League three times, the UEFA Europa League, and several other major trophies. The club's home ground is Old Trafford, which has been their home since 1910.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "When was Manchester United founded?",
+                            "answers": [
+                                {
+                                    "text": "1878",
+                                    "answer_start": 147
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "question": "What was Manchester United's original name?",
+                            "answers": [
+                                {
+                                    "text": "Newton Heath LYR Football Club",
+                                    "answer_start": 111
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "question": "How many top-flight league titles has Manchester United won?",
+                            "answers": [
+                                {
+                                    "text": "20",
+                                    "answer_start": 203
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "question": "Where is Manchester United based?",
+                            "answers": [
+                                {
+                                    "text": "Old Trafford, Greater Manchester, England",
+                                    "answer_start": 89
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "question": "When did Manchester United move to Old Trafford?",
+                            "answers": [
+                                {
+                                    "text": "1910",
+                                    "answer_start": 421
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Sir Alex Ferguson is the club's longest-serving and most successful manager, winning 38 trophies, including 13 league titles, five FA Cups, and two Champions League titles between 1986 and 2013. Under his management, Manchester United became the first English club to achieve the continental treble of the Premier League, FA Cup, and UEFA Champions League in the 1998\u201399 season.",
+                    "qas": [
+                        {
+                            "id": "6",
+                            "question": "Who is Manchester United's most successful manager?",
+                            "answers": [
+                                {
+                                    "text": "Sir Alex Ferguson",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7",
+                            "question": "How many trophies did Sir Alex Ferguson win with Manchester United?",
+                            "answers": [
+                                {
+                                    "text": "38",
+                                    "answer_start": 61
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8",
+                            "question": "In which season did Manchester United achieve the continental treble?",
+                            "answers": [
+                                {
+                                    "text": "1998\u201399 season",
+                                    "answer_start": 281
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
